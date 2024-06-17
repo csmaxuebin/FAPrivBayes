@@ -72,7 +72,7 @@ This script handles preprocessing of data for further analysis:
 
 ##  Experimental Results
 The experimental results section underscores that the JTFAPB algorithm not only enhances privacy through better noise management and fewer sub-networks but also maintains or improves data utility for machine learning purposes, evident from the α-way query accuracy and SVM classification results. Additionally, the run time data illustrate the efficiency improvements over previous methods, making the JTFAPB algorithm a more viable option for high-dimensional data privacy.
-![输入图片说明](https://github.com/csmaxuebin/FAPrivBayes/blob/main/tp/acs-multigen.png)![输入图片说明](https://github.com/csmaxuebin/FAPrivBayes/blob/main/tp/acs-Q2.png)![输入图片说明](/imgs/2024-06-17/sMZIUxRQimDlH85Q.png)![输入图片说明](/imgs/2024-06-17/v2k5nc4zdADx9v6T.png)
+![输入图片说明](https://github.com/csmaxuebin/FAPrivBayes/blob/main/tp/acs-multigen.png)![输入图片说明](https://github.com/csmaxuebin/FAPrivBayes/blob/main/tp/acs-Q2.png)![输入图片说明](https://github.com/csmaxuebin/FAPrivBayes/blob/main/tp/acs-Q3.png)![输入图片说明](/imgs/2024-06-17/v2k5nc4zdADx9v6T.png)
 
 
 
